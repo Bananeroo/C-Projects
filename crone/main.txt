@@ -1,0 +1,8 @@
+5 ! ! ! 2       hello.sh 
+5 ! ! ! !       foo.sh 
+5 ! ! ! !       skrypt 
+8 ! ! ! !       echo "Nowy komunikat" 
+8 ! ! ! ! hello.sh  
+50 ! ! ! ! foo.sh  
+8 ! ! ! ! echo "Jeszcze Nowszy Komunikat" 
+! ! ! ! ! empty 

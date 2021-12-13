@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "zad2.h": "c",
+        "stdio.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "mman.h": "c"
+    }
+}
