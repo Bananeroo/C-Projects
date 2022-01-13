@@ -4,7 +4,7 @@ Some first encounters with C
 
 Code from Allocator, Fat16 Reader and Crone should works pretty well, Game code you launch at your own responsibility  
 
-Allocator is just a my (very simple) implementation of malloc and calloc in C
+Allocator is just my (very simple) implementation of malloc and calloc in C
 
 Crown - schedule and run sh script by using C
 
